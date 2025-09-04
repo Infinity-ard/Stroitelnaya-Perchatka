@@ -1,4 +1,4 @@
-Перчатка-манипулятор (BLE Mouse Glove)
+Перчатка-манипулятор (BLE Mouse Glove, currently version is 0.5 pre-reales)
 
 📌 Что это?
 
